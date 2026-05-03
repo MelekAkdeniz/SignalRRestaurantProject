@@ -96,16 +96,16 @@ Update-Database
 
 ## 🎯 Projenin Amacı ve Kazanımlar
 
--SignalR kullanarak gerçek zamanlı uygulamalar geliştirme deneyimi.
--Katmanlı Mimari prensiplerini gerçek bir projede uygulama.
--API Consume yöntemleri ile modern web geliştirme süreçlerini öğrenme.
--Asenkron programlama (async/await) ve DTO kullanımını pekiştirme.
+- SignalR kullanarak gerçek zamanlı uygulamalar geliştirme deneyimi.
+- Katmanlı Mimari prensiplerini gerçek bir projede uygulama.
+- API Consume yöntemleri ile modern web geliştirme süreçlerini öğrenme.
+- Asenkron programlama (async/await) ve DTO kullanımını pekiştirme.
 
 ---
 
 ## 🔐 Güvenlik Notu
--Hassas bilgiler (email, şifre, API key) repoya dahil edilmemiştir.
--Kullanıcıların kendi ortamına göre yapılandırması gerekmektedir.
+- Hassas bilgiler (email, şifre, API key) repoya dahil edilmemiştir.
+- Kullanıcıların kendi ortamına göre yapılandırması gerekmektedir.
 
 ---
 
