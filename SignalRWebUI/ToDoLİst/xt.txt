@@ -1,0 +1,33 @@
+﻿--categorycount
+--productcount
+--aktif kategori sayısı
+--pasif kategori sayısı
+
+--kategori adına göre ürün sayısı1
+--kategori adına göre ürün sayısı2
+
+--ortalama fiyat
+--en yüksek fiyatlı ürün
+--en düşük fiyatlı ürün
+
+
+--toplam sipariş sayısı
+--aktif sipariş sayısı
+--son sipariş tutarı
+--kasadaki tutar
+--bugünkü kazanç
+--masa sayısı
+
+--------------------------------
+İstatistiklerin Consume Edilmesi
+--------------------------------
+progressbar istatistikler
+order sayfası uı
+qr kod sistemi
+default kontrolü
+menü sayfası kontrolü uı
+logout
+ayarlar 
+uygulama seviyesinde authorize
+mail?
+search işlemi
