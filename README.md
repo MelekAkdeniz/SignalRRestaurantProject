@@ -109,7 +109,7 @@ Update-Database
 
 ---
 
-⭐ Not
+## ⭐ Not
 Bu proje eğitim ve portfolyo amacıyla geliştirilmiştir.
 
 
